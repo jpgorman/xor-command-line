@@ -1,0 +1,13 @@
+{
+  "name": "xor",
+  "version": "1.0.0",
+  "description": "command line tool to encode/decode using XOR",
+  "bin": {
+    "xor": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
